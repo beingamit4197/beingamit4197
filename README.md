@@ -1,7 +1,9 @@
 ### Hi there, I'm Amit Rawat -  👋
+
 <p align="center">
 <img src="https://github.com/beingamit4197/beingamit4197/blob/master/amit.jpg" width="250" height="250">
 </p>
+
 ## I'm a Student and learning Development!
 - 🔭 I’m currently working on a [VS Code Course]!
 - 🌱 I’m currently learning everything 🤣
