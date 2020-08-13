@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="beingamit4197's Github Stats" src="https://github-readme-stats.vercel.app/api?username=beingamit4197&show_icons=true&hide_border=true" />
 
 [website]: https://amit-rawat.netlifyapp.com
 [twitter]: https://twitter.com/codeSTACKr
