@@ -48,8 +48,6 @@
 
 ---
 
-<img align="left" alt="beingamit4197's Github Stats" src="https://beingamit4197-git-master.beingamit4197.vercel.app/api?/api?username=beingamit4197&show_icons=true&hide_border=true" />
-
 [website]: https://amit-rawat.netlifyapp.com
 [twitter]: https://twitter.com/ammiii___
 [instagram]: https://www.instagram.com/ammiii.__/
