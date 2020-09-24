@@ -47,6 +47,9 @@
 <br />
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingamit4197" alt="Amit Rawat" /> </p>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beingamit4197&show_icons=true&theme=radical)
 
 [website]: https://amit-rawat.netlifyapp.com
 [twitter]: https://twitter.com/ammiii___
