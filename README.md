@@ -6,9 +6,7 @@
 
 ---
 
-### Spotify Playing 🎧
-
-[<img src="https://beingamit4197.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31yspnwbl4oo5tufruu4ljhk5fym)
+[![Spotify](https://spotify-now-playing.beingamit4197.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31yspnwbl4oo5tufruu4ljhk5fym)
 
 ---
 
