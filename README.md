@@ -4,6 +4,14 @@
 <img src="https://github.com/beingamit4197/beingamit4197/blob/master/amit.jpg" width="250" height="250">
 </p>
 
+---
+
+### Spotify Playing 🎧
+
+[<img src="https://beingamit4197.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31yspnwbl4oo5tufruu4ljhk5fym)
+
+---
+
 ## I'm a Student and learning Development!
 - 🔭 I’m currently working on a [VS Code Course]!
 - 🌱 I’m currently learning everything 🤣
