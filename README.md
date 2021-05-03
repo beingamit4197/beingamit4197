@@ -52,14 +52,13 @@
 
 ---
 
-<a href="https://github.com/beingamit4197">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingamit4197&theme=light&hide_langs_below=1" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beingamit4197&layout=compact)](https://github.com/beingamit4197/github-readme-stats)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beingamit4197" alt="Amit Rawat" /> </p>
 
-![Amit's github stats](https://github-readme-stats.vercel.app/api?username=beingamit4197&show_icons=true&theme=light&hide_langs_below=1)
+
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingamit4197&show_icons=true&theme=radical)](https://github.com/beingamit4197/github-readme-stats)
 
 [website]: https://amit-rawat.netlifyapp.com
 [twitter]: https://twitter.com/ammiii___
