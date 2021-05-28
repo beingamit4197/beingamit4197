@@ -15,7 +15,8 @@
 
 <br />
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingamit4197" alt="Amit Rawat" /> </p>
+
 
 ### Connect with me:
 
@@ -54,13 +55,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beingamit4197&layout=compact)](https://github.com/beingamit4197/github-readme-stats)
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingamit4197" alt="Amit Rawat" /> </p>
-
-
-[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingamit4197&show_icons=true&theme=radical)](https://github.com/beingamit4197/github-readme-stats)
+<!-- [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingamit4197&show_icons=true&theme=radical)](https://github.com/beingamit4197/github-readme-stats) -->
 
 [website]: https://amit-rawat.netlifyapp.com
 [twitter]: https://twitter.com/ammiii___
 [instagram]: https://www.instagram.com/ammiii.__/
 [linkedin]: https://linkedin.com/in/amit-rawat-82914bb1
+
+---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beingamit4197&" alt="beingamit4197" /></p>
