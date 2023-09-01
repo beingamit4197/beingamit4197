@@ -4,16 +4,7 @@
 <img src="https://github.com/beingamit4197/beingamit4197/blob/master/amit.jpg" width="250" height="250">
 </p>
 
-
 ---
-
-## I'm a Student and learning Development!
-- 🔭 I’m currently working on a [VS Code Course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
-<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beingamit4197" alt="Amit Rawat" /> </p>
 
@@ -31,7 +22,8 @@
 ---
 
 ### Languages and Tools:
-
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="26px" src="https://miro.medium.com/v2/resize:fit:400/1*xpwPlFGZ5an8QvuaugC0pA.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="DotNet" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_logo_icon_146546.png" />
