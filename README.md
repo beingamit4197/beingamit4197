@@ -11,6 +11,7 @@
 ---
 
 ### Languages and Tools:
+<img align="left" alt="React" width="26px" src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://miro.medium.com/v2/resize:fit:400/1*xpwPlFGZ5an8QvuaugC0pA.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
