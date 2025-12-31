@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beingamit4197&label=Profile%20views&color=0e75b6&style=flat" alt="beingamit4197" /> </p>
 
-- 🔭 I’m currently working on [Shoppio (eCommerce)](https://shoppio.life/)
+- 🔭 I’m currently working on [Shoppio (eCommerce)](https://shoppio.pro/)
 
 - 🌱 I’m currently learning **React Native**
 
