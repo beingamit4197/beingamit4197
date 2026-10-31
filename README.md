@@ -1,27 +1,99 @@
-<h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amit%20Rawat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Frontend%20%7C%20React%20%7C%20Rails&descAlignY=58&descSize=18" alt="header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingamit4197&label=Profile%20views&color=0e75b6&style=flat" alt="beingamit4197" /> </p>
+  <a href="https://github.com/beingamit4197">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit;Frontend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+fast%2C+clean+web+experiences;Currently+learning+React+Native+%F0%9F%93%B1" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on [Shoppio (eCommerce)](https://shoppio.pro/)
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=beingamit4197&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/beingamit4197?style=flat-square&logo=github&color=24292e" alt="followers" />
+    <img src="https://img.shields.io/badge/Lucknow-India-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
+  </p>
 
-- 🌱 I’m currently learning **React Native**
+  <p>
+    <a href="https://www.linkedin.com/in/beingamit4197"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:beingamit4197@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://x.com/ammiii___"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  </p>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/beingamit4197](https://github.com/beingamit4197)
+---
 
-- 💬 Ask me about **React, ROR**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **beingamit4197@gmail.com**
+```ts
+const amit = {
+  role: "Software Engineer @ Code Avenue Pvt. Ltd.",
+  location: "Lucknow, Uttar Pradesh, India 🇮🇳",
+  currentlyBuilding: "Shoppio (eCommerce)",
+  currentlyLearning: ["React Native", "System Design"],
+  askMeAbout: ["React", "Ruby on Rails", "TypeScript", "UI Engineering"],
+  funFact: "I turn coffee into pull requests ☕",
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/beingamit4197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beingamit4197" height="30" width="40" /></a>
-</p>
+- 🔭 Working on **[Shoppio (eCommerce)](https://github.com/beingamit4197)**
+- 🌱 Learning **React Native**
+- 💬 Ask me about **React, Ruby on Rails, TypeScript**
+- 📫 Reach me at **[beingamit4197@gmail.com](mailto:beingamit4197@gmail.com)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beingamit4197&show_icons=true&locale=en&layout=compact" alt="beingamit4197" /></p>
+## 🛠️ Tech Stack
 
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beingamit4197&" alt="beingamit4197" /></p>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap&perline=8" alt="frontend" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,postgres,redis,firebase&perline=6" alt="backend" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode&perline=5" alt="tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=beingamit4197&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+</div>
+
+<div align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most used languages" />
+</div>
+
+<div align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- Needs a GitHub Action (Platane/snk) in your profile repo; see setup notes below -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beingamit4197/beingamit4197/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beingamit4197/beingamit4197/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/beingamit4197/beingamit4197/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <i>"Make it work, make it right, make it fast."</i> ⚡
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
+</div>
